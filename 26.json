@@ -1,103 +1,57 @@
 {
     "name": "Unfound Akita #26",
     "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
-    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/26.png",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/3.png/26.png",
     "external_url": "https://unfoundlabs.com",
     "background_color": "FF10F0",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Meteor"
+            "value": "Pink"
         },
         {
             "trait_type": "Item",
-            "value": "Teal Buster"
+            "value": "Violet Buster"
         },
         {
             "trait_type": "Body",
-            "value": "Skin Tone 6"
+            "value": "Human Barcode"
         },
         {
             "trait_type": "Eye",
-            "value": "Demon"
+            "value": "Green"
         },
         {
             "trait_type": "Hair",
-            "value": "Platinum Type 1"
+            "value": "Purple Type 3"
         },
         {
             "trait_type": "Suit",
-            "value": "Purple Raglan"
+            "value": "White Shell"
         },
         {
             "trait_type": "Headgear",
-            "value": "CyberOni Type 3"
+            "value": "Cobalt Hannya Blast Shield"
         },
         {
-            "trait_type": "Demon Eyes",
+            "trait_type": "Green Eyes",
             "value": 90,
             "display_type": "boost_number"
         },
         {
-            "trait_type": "Dark Magic",
-            "value": 98,
+            "trait_type": "Earth Child",
+            "value": 48,
             "display_type": "boost_number"
         },
         {
             "trait_type": "Global Rank",
-            "value": 32,
-            "display_type": "number",
+            "value": 12,
             "max_value": 50
         },
         {
             "trait_type": "Rank Percentile",
-            "value": 36.73,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Background Rarity",
-            "value": 12.5,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Item Rarity",
-            "value": 25.0,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Body Rarity",
-            "value": 8.33,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Eye Rarity",
-            "value": 12.5,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Hair Rarity",
-            "value": 12.5,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Suit Rarity",
-            "value": 50.0,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Headgear Rarity",
-            "value": 12.5,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Demon Eyes Rarity",
-            "value": 12.5,
-            "display_type": "number"
-        },
-        {
-            "trait_type": "Dark Magic Rarity",
-            "value": 12.5,
-            "display_type": "number"
+            "value": 78,
+            "display_type": "boost_number"
         }
     ]
 }
