@@ -7,40 +7,96 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Forgotten"
+            "value": "Meteor"
         },
         {
             "trait_type": "Item",
-            "value": "Red Guitar"
+            "value": "Teal Buster"
         },
         {
             "trait_type": "Body",
-            "value": "Yakuza"
+            "value": "Skin Tone 6"
         },
         {
             "trait_type": "Eye",
-            "value": "Purple"
+            "value": "Demon"
         },
         {
             "trait_type": "Hair",
-            "value": "Charcoal Type 2"
+            "value": "Platinum Type 1"
         },
         {
             "trait_type": "Suit",
-            "value": "Dark Ninja"
+            "value": "Purple Raglan"
         },
         {
             "trait_type": "Headgear",
-            "value": "Burgundy Hannya"
+            "value": "CyberOni Type 3"
         },
         {
-            "trait_type": "Global Ranking",
-            "value": 2,
+            "trait_type": "Demon Eyes",
+            "value": 90,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Dark Magic",
+            "value": 98,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Global Rank",
+            "value": 32,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Rank Percentile",
+            "value": 36.73,
             "display_type": "number"
         },
         {
-            "trait_type": "Rarity Score Percentile",
-            "value": 62.0,
+            "trait_type": "Background Rarity",
+            "value": 12.5,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Item Rarity",
+            "value": 25.0,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Body Rarity",
+            "value": 8.33,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Eye Rarity",
+            "value": 12.5,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Hair Rarity",
+            "value": 12.5,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Suit Rarity",
+            "value": 50.0,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Headgear Rarity",
+            "value": 12.5,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Demon Eyes Rarity",
+            "value": 12.5,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Dark Magic Rarity",
+            "value": 12.5,
             "display_type": "number"
         }
     ]
