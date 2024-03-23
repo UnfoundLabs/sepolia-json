@@ -1,0 +1,57 @@
+{
+    "name": "Unfound Akita #39",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/39.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Bllue Guitar"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human Barcode"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Type 1"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Green CyberPunk"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Hannya"
+        },
+        {
+            "trait_type": "Demon Eyes",
+            "value": 90,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Dark Magic",
+            "value": 98,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Global Ranking",
+            "value": 32,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Rarity Score Percentile",
+            "value": 34.0,
+            "display_type": "number"
+        }
+    ]
+}

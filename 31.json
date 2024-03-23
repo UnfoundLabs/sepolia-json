@@ -1,0 +1,47 @@
+{
+    "name": "Unfound Akita #31",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/31.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rouge"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Sunfire Hunter"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human Barcode"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Type 3"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "White Shell"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cobalt Hannya Blast Shield"
+        },
+        {
+            "trait_type": "Global Ranking",
+            "value": 1,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Rarity Score Percentile",
+            "value": 50.0,
+            "display_type": "number"
+        }
+    ]
+}

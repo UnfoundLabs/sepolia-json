@@ -1,0 +1,47 @@
+{
+    "name": "Unfound Akita #26",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/26.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Forgotten"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Red Guitar"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yakuza"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Charcoal Type 2"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Dark Ninja"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Burgundy Hannya"
+        },
+        {
+            "trait_type": "Global Ranking",
+            "value": 2,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Rarity Score Percentile",
+            "value": 62.0,
+            "display_type": "number"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Unfound Akita #19",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/19.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Fireflies"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Giant Cleaver"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Skin Tone 3"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lemonade Type 1"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Cobalt Ninja"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Blast Shield"
+        },
+        {
+            "trait_type": "Global Ranking",
+            "value": 5,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Rarity Score Percentile",
+            "value": 78.0,
+            "display_type": "number"
+        }
+    ]
+}

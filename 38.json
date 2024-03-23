@@ -1,0 +1,57 @@
+{
+    "name": "Unfound Akita #38",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/38.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Secret"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Violet Tachi"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Skin Tone 5"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Type 3"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Purple Shell"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Visor"
+        },
+        {
+            "trait_type": "Green Eyes",
+            "value": 90,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Earth Child",
+            "value": 48,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Global Ranking",
+            "value": 15,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Rarity Score Percentile",
+            "value": 36.0,
+            "display_type": "number"
+        }
+    ]
+}
