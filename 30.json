@@ -1,57 +1,55 @@
 {
-    "name": "Unfound Akita #30",
+    "name": "Unfound Akita #31",
     "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
-    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/30.png",
+    "image": "https://newimage.uri/31.png",
     "external_url": "https://unfoundlabs.com",
     "background_color": "FF10F0",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Golden"
+            "value": "Dark Tower"
         },
         {
             "trait_type": "Item",
-            "value": "Red Tachi"
+            "value": "Gold Hunter"
         },
         {
             "trait_type": "Body",
-            "value": "Skin Tone 6"
+            "value": "Skin Tone 4"
         },
         {
             "trait_type": "Eye",
-            "value": "Green"
+            "value": "Black"
         },
         {
             "trait_type": "Hair",
-            "value": "Silver Type 1"
+            "value": "Charcoal Type 3"
         },
         {
             "trait_type": "Suit",
-            "value": "Green Cutoff"
+            "value": "Purple Fur"
         },
         {
             "trait_type": "Headgear",
-            "value": "Cobalt Blast Shield"
+            "value": "Purple Hannya"
         },
         {
-            "trait_type": "Green Eyes",
+            "trait_type": "Black Eyes",
             "value": 90,
             "display_type": "boost_number"
         },
         {
-            "trait_type": "Earth Child",
-            "value": 48,
+            "trait_type": "Shapeshifter",
+            "value": 18,
             "display_type": "boost_number"
         },
         {
-            "trait_type": "Global Ranking",
-            "value": 26,
-            "display_type": "number"
+            "trait_type": "Global Rank",
+            "value": 9
         },
         {
-            "trait_type": "Rarity Score Percentile",
-            "value": 52.0,
-            "display_type": "number"
+            "trait_type": "Rank Percentile",
+            "value": 83.67
         }
     ]
 }
