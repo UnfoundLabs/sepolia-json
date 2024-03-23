@@ -1,37 +1,51 @@
 {
     "name": "Unfound Akita #30",
     "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim whats rightfully theirs.",
-    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/3.png",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/sepolia-nfts/main/3.png/30.png",
     "external_url": "https://unfoundlabs.com",
     "background_color": "FF10F0",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Inn"
+            "value": "Inn",
+            "rarity_score": 16.67,
+            "display_type": "number"
         },
         {
             "trait_type": "Item",
-            "value": "Emerald Slayer"
+            "value": "Emerald Slayer",
+            "rarity_score": 25.0,
+            "display_type": "number"
         },
         {
             "trait_type": "Body",
-            "value": "Graylien"
+            "value": "Graylien",
+            "rarity_score": 10.0,
+            "display_type": "number"
         },
         {
             "trait_type": "Eye",
-            "value": "Blue"
+            "value": "Blue",
+            "rarity_score": 7.14,
+            "display_type": "number"
         },
         {
             "trait_type": "Hair",
-            "value": "Charcoal Type 4"
+            "value": "Charcoal Type 4",
+            "rarity_score": 12.5,
+            "display_type": "number"
         },
         {
             "trait_type": "Suit",
-            "value": "Copper Cutoff"
+            "value": "Copper Cutoff",
+            "rarity_score": 50.0,
+            "display_type": "number"
         },
         {
             "trait_type": "Headgear",
-            "value": "None"
+            "value": "None",
+            "rarity_score": 16.67,
+            "display_type": "number"
         },
         {
             "trait_type": "Blue Eyes",
@@ -46,11 +60,25 @@
         {
             "trait_type": "Global Rank",
             "value": 23,
-            "max_value": 50
+            "max_value": 50,
+            "rarity_score": 25.0,
+            "display_type": "number"
         },
         {
             "trait_type": "Rank Percentile",
             "value": 55.1,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Global Rank",
+            "value": 23,
+            "max_value": 50,
+            "rarity_score": 25.0,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Rank Percentile",
+            "value": 55,
             "display_type": "boost_number"
         }
     ]
